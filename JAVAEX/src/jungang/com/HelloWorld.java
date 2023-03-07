@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("만나서 반가워~!");
 		System.out.println("집에서 수정했어!");
+		System.out.println("로컬저장");
 	}
 
 }
